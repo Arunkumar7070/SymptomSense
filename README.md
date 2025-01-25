@@ -1,7 +1,6 @@
 ## Team Member
 22PW05->Arun kumar
-22PW09->Bhavya PR
-
+22PW23->Roshini
 
 # Symptom Sense
 
